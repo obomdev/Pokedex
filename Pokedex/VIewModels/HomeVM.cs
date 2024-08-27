@@ -1,6 +1,6 @@
 using Pokedex.Models;
 
-namespace Pokedex.VIewModels;
+namespace Pokedex.ViewModels;
 
 public class HomeVM
 {
